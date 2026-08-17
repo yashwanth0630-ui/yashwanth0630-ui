@@ -38,7 +38,7 @@
 <br/>
 
 <!-- GitHub Trophies -->
-<!--<h3 align="center"> 🏆 GitHub Trophies </h3>
+<h3 align="center"> 🏆 GitHub Trophies </h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <!-- Trophies update dynamically based on your GitHub activity -->
@@ -48,7 +48,7 @@
 
 <br/>
 
-<!-- Stats Cards (Radical Theme for vibrant colors) --
+<!-- Stats Cards (Radical Theme for vibrant colors) -->
 <h3 align="center"> 📈 GitHub Analytics </h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yashwanth0630-ui&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
@@ -60,7 +60,7 @@
 </div>
 
 <br/>
--->
+
 <!-- Social Badges -->
 <h3 align="center"> 🤝 Let's Connect! </h3>
 <p align="center">
