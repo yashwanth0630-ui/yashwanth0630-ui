@@ -23,7 +23,7 @@
   <div align="left">
     <h3> ⚡ About Me </h3>
     <ul>
-      <li> 🎓 First-Year B.Tech CSE student at <b>Malla Reddy (MR) Deemed To Be University</b>. </li>
+      <li> 🎓 B.Tech CSE student at <b>Malla Reddy (MR) Deemed To Be University</b>. </li>
       <li> 🧠 Laser-focused on mastering <b>Data Structures and Algorithms (DSA)</b>. </li>
       <li> 🏗️ On a mission to become a world-class <b>Data Architect</b>. </li>
       <li> 💻 Love competing in hackathons and solving complex logical puzzles. </li>
