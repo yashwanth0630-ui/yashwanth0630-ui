@@ -58,27 +58,25 @@
 <br/>
 
 <!-- GitHub Trophies -->
-<!-- GitHub Profile Summary -->
-<h3 align="center"> 🏆 GitHub Activity Summary </h3>
+<h3 align="center"> 🏆 GitHub Trophies </h3>
 <p align="center">
-  <img src="https://vercel.app" alt="GitHub Profile Details" />
-</p>
-
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=yashwanth0630-ui&theme=radical&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+  </a>
 </p>
 <br/>
 
 <!-- Stats Cards (Radical Theme for vibrant colors) -->
-<!-- Stats Cards -->
 <h3 align="center"> 📈 GitHub Analytics </h3>
 <div align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" />
-  <img src="https://herokuapp.com" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yashwanth0630-ui&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashwanth0630-ui&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://vercel.app" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwanth0630-ui&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
-
+<br/>
 
 <!-- Social Badges -->
 <h3 align="center"> 🤝 Let's Connect! </h3>
