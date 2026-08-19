@@ -10,16 +10,19 @@
 <br/>
 
 <!-- Certification Badge Section -->
+<!-- Certification Badge Section -->
 <h3 align="center"> 🎖️ IBM SkillsBuild Digital Badges </h3>
 <p align="center">
-  <img src="./assets/badges/generative-ai-essentials.png" width="180" alt="Generative AI Essentials: Using LLMs to Work with Data" style="border-radius:8px;margin:6px;"/>
-  <img src="./assets/badges/classifying-data-ibm-granite.png" width="180" alt="Classifying Data Using IBM Granite" style="border-radius:8px;margin:6px;"/>
-  <img src="./assets/badges/summarizing-data-ibm-granite.png" width="180" alt="Summarizing Data Using IBM Granite" style="border-radius:8px;margin:6px;"/>
-  <img src="./assets/badges/intro-to-llms.png" width="180" alt="Introduction to Large Language Models" style="border-radius:8px;margin:6px;"/>
+  <img src="./generative-ai-essentials.png" width="180" alt="Generative AI Essentials: Using LLMs to Work with Data" style="border-radius:8px;margin:6px;"/>
+  <img src="./classifying-data-ibm-granite.png" width="180" alt="Classifying Data Using IBM Granite" style="border-radius:8px;margin:6px;"/>
+  <img src="./summarizing-data-ibm-granite.png" width="180" alt="Summarizing Data Using IBM Granite" style="border-radius:8px;margin:6px;"/>
+  <img src="./intro-to-llms.png" width="180" alt="Introduction to Large Language Models" style="border-radius:8px;margin:6px;"/>
   <br/>
-  <img src="./assets/badges/rise-of-multiagent-systems.png" width="180" alt="The Rise of Multiagent Systems" style="border-radius:8px;margin:6px;"/>
-  <img src="./assets/badges/intro-to-rag.png" width="180" alt="Introduction to Retrieval-Augmented Generation" style="border-radius:8px;margin:6px;"/>
-  <img src="./assets/badges/unleashing-ai-agents.png" width="180" alt="Unleashing the Power of AI Agents" style="border-radius:8px;margin:6px;"/>
+  <img src="./rise-of-multiagent-systems.png" width="180" alt="The Rise of Multiagent Systems" style="border-radius:8px;margin:6px;"/>
+  <img src="./intro-to-rag.png" width="180" alt="Introduction to Retrieval-Augmented Generation" style="border-radius:8px;margin:6px;"/>
+  <img src="./unleashing-ai-agents.png" width="180" alt="Unleashing the Power of AI Agents" style="border-radius:8px;margin:6px;"/>
+</p>
+
 </p>
 
 <!-- Other Certificates -->
