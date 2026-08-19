@@ -41,6 +41,7 @@
 <h3 align="center"> 🏆 GitHub Trophies </h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7d652407-fb5c-4c72-8baf-2d420d2488a7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
     <!-- Trophies update dynamically based on your GitHub activity -->
     <img src="https://github-profile-trophy.vercel.app/?username=yashwanth0630-ui&theme=radical&column=7&margin-w=15&margin-h=15" alt="Trophies" />
   </a>
