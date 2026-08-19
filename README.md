@@ -12,8 +12,9 @@
 
 <!-- Certification Badge Section -->
 <div align="center">
-  <img src="https://githubusercontent.com" width="220" alt="IBM SkillsBuild - Generative AI Essentials" style="border-radius: 8px; margin: 10px;"/>
+  <img src="https://credential.net" width="220" alt="IBM SkillsBuild - Generative AI Essentials" style="border-radius: 8px; margin: 10px;"/>
 </div>
+
 
 <br/>
 
