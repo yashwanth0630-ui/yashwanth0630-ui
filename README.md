@@ -10,6 +10,13 @@
 
 <br/>
 
+<!-- Certification Badge Section -->
+<div align="center">
+  <img src="https://githubusercontent.com" width="220" alt="IBM SkillsBuild - Generative AI Essentials" style="border-radius: 8px; margin: 10px;"/>
+</div>
+
+<br/>
+
 <!-- About Me Section with a coding GIF -->
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" align="right" alt="Coding GIF">
@@ -41,11 +48,11 @@
 <h3 align="center"> 🏆 GitHub Trophies </h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7d652407-fb5c-4c72-8baf-2d420d2488a7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
     <!-- Trophies update dynamically based on your GitHub activity -->
     <img src="https://github-profile-trophy.vercel.app/?username=yashwanth0630-ui&theme=radical&column=7&margin-w=15&margin-h=15" alt="Trophies" />
   </a>
 </p>
+
 
 <br/>
 
@@ -73,8 +80,3 @@
   </a>
 </p>
 <br/>
-
-<!-- Animated Profile View Counter -->
-<!--<p align="center">
-  <img src="https://profile-counter.glitch.me/yashwanth0630-ui/count.svg" alt="Profile Views" />
-</p>-->
