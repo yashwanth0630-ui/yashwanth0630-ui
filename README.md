@@ -1,20 +1,33 @@
 <!-- Waving Header Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Yashwanth%20Telukuntla&fontSize=70&animation=twinkling&fontAlignY=35&desc=Aspiring%20Data%20Architect&descAlignY=55&descSize=25"/>
-  
+
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=1000&color=F77033&center=true&vCenter=true&width=700&lines=B.Tech+CSE+%40+Malla+Reddy+University;Mastering+Data+Structures+%26+Algorithms;Future+Data+Architect;Hackathon+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
-
 <br/>
 
 <!-- Certification Badge Section -->
-<div align="center">
-  <img src="https://githubusercontent.com" width="220" alt="IBM SkillsBuild - Generative AI Essentials" style="border-radius: 8px; margin: 10px;"/>
-</div>
+<h3 align="center"> 🎖️ IBM SkillsBuild Digital Badges </h3>
+<p align="center">
+  <img src="./assets/badges/generative-ai-essentials.png" width="180" alt="Generative AI Essentials: Using LLMs to Work with Data" style="border-radius:8px;margin:6px;"/>
+  <img src="./assets/badges/classifying-data-ibm-granite.png" width="180" alt="Classifying Data Using IBM Granite" style="border-radius:8px;margin:6px;"/>
+  <img src="./assets/badges/summarizing-data-ibm-granite.png" width="180" alt="Summarizing Data Using IBM Granite" style="border-radius:8px;margin:6px;"/>
+  <img src="./assets/badges/intro-to-llms.png" width="180" alt="Introduction to Large Language Models" style="border-radius:8px;margin:6px;"/>
+  <br/>
+  <img src="./assets/badges/rise-of-multiagent-systems.png" width="180" alt="The Rise of Multiagent Systems" style="border-radius:8px;margin:6px;"/>
+  <img src="./assets/badges/intro-to-rag.png" width="180" alt="Introduction to Retrieval-Augmented Generation" style="border-radius:8px;margin:6px;"/>
+  <img src="./assets/badges/unleashing-ai-agents.png" width="180" alt="Unleashing the Power of AI Agents" style="border-radius:8px;margin:6px;"/>
+</p>
 
+<!-- Other Certificates -->
+<h3 align="center"> 📜 Other Certifications </h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Saylor.org-CS406%20Information%20Security-003366?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CS406: Information Security"/>
+  <img src="https://img.shields.io/badge/Reliance%20Foundation-Data%20Science%20for%20Everyone-2E7D32?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Data Science for Everyone"/>
+</p>
 <br/>
 
 <!-- About Me Section with a coding GIF -->
@@ -30,30 +43,24 @@
     </ul>
   </div>
 </div>
-
 <br/>
 
 <!-- Tech Stack -->
 <h3 align="center"> 🛠️ Tech Arsenal </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <!-- Using skillicons.dev for clean, uniform icons -->
     <img src="https://skillicons.dev/icons?i=python,java,html,css,react,nodejs,mysql,git,github,vscode&perline=5" alt="Tech Stack" />
   </a>
 </p>
-
 <br/>
 
 <!-- GitHub Trophies -->
 <h3 align="center"> 🏆 GitHub Trophies </h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <!-- Trophies update dynamically based on your GitHub activity -->
     <img src="https://github-profile-trophy.vercel.app/?username=yashwanth0630-ui&theme=radical&column=7&margin-w=15&margin-h=15" alt="Trophies" />
   </a>
 </p>
-
-
 <br/>
 
 <!-- Stats Cards (Radical Theme for vibrant colors) -->
@@ -66,7 +73,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwanth0630-ui&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
-
 <br/>
 
 <!-- Social Badges -->
